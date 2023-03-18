@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Elixir
+/_build
+/deps
+/*.ez
+/*.beam
+/erl_crash.dump
+
+# Phoenix
+/_build.dev
+/_build.prod
+/*.tar.gz
+
+# Logs
+/log
+
+# Dependencies
+/priv/*/dist
+/priv/*/assets
+
+# Compiled assets
+/node_modules
+/assets
+/static
+
+# Compiled outputs
+/priv/*/releases
+/priv/*/digests
+
+# Testing artifacts
+/_build/test
+/cover
+
+# Environment variables
+.env
