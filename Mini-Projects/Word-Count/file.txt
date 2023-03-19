@@ -1,0 +1,5 @@
+This is a test file.
+It contains several sentences.
+Each sentence has multiple words.
+The purpose of this file is to check the word count functionality.
+Please make sure to provide the correct file path when running the program.

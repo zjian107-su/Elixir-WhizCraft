@@ -41,3 +41,6 @@
 
 # Environment variables
 .env
+
+# Daniel
+.elixir_ls
